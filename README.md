@@ -76,4 +76,8 @@ Enter the corresponding number to select an option from the menu. For example, t
 Perform Actions
 Follow the prompts to search for offers, filter by ingredients, mark allergens, display the cart, or add offers to the cart.
 Exit
+![image](https://github.com/sakethchiluka/Icecream_cafe/assets/79203064/6bf3a17a-7ec8-47e7-a5ba-638793891ad6)
+
+
+
 
