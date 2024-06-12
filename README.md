@@ -77,6 +77,10 @@ Perform Actions
 Follow the prompts to search for offers, filter by ingredients, mark allergens, display the cart, or add offers to the cart.
 Exit
 ![image](https://github.com/sakethchiluka/Icecream_cafe/assets/79203064/6bf3a17a-7ec8-47e7-a5ba-638793891ad6)
+![image](https://github.com/sakethchiluka/Icecream_cafe/assets/79203064/b7cbcd07-2129-43b3-8b2d-01915b222cb9)
+![image](https://github.com/sakethchiluka/Icecream_cafe/assets/79203064/5120a98b-4aee-468f-96d7-91fdc94d3fa5)
+
+
 
 
 
