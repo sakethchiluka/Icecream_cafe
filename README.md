@@ -10,10 +10,8 @@ Features
 ## Setup
 Python 3.x
 SQLite3
-1.Clone the Repository
-git clone https://github.com/yourusername/ice-cream-parlor.git
-cd ice-cream-parlor
-2.Create the Database Schema
+
+1.Create the Database Schema
 Ensure you have the schema.sql and sample_data.sql files in the same directory as app.py.
 -- seasonal_flavors table
 CREATE TABLE IF NOT EXISTS seasonal_flavors (
