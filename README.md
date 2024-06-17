@@ -1,12 +1,11 @@
 # Icecream_cafe
 ## Description
-This application is made to handle the inventories of ingredients, seasonal flavor selections, client flavor recommendations, and allergy issues for a fictional ice cream shop. Users can add allergies if they don't already exist, search and filter the selections, and keep track of their preferred products in a basket.
+This application is made to handle the inventories of ingredients, seasonal flavor selections, client flavor recommendations, and allergy issues for a fictional ice cream shop. Users can add allergies if they don't already exist, search and filter the selections, and keep track of their preferred products in a basket
 Features
     view seasonal flavor offerings.
     Search and filter the flavors.
     Add allergens to ingredients.
     Maintain a shopping cart of favorite flavors.
-    Dynamic user interaction with a command-line interface.
 ## Setup
 Python 3.x
 SQLite3
